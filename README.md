@@ -23,21 +23,12 @@ Requires a JSON body with session details.
 {
  "id": 1,
  "crisis": "Family Crisis",
- "clientName": "John Doe",
- "counslerName": "Jane Doe",
+ "clientName": "may levi",
+ "counslerName": "mosh cohen",
  "date": "2024-02-01",
  "sessionStatuss": "In Progress"
 }
 
-```
-### GET /getSession
-- Creates a new counseling session.
-- Requires a JSON body with session details.
-  Example:
-```json
-{
- "id": 1
-}
 ```
 ### PUT /updateSession
 Updates an existing counseling session.
@@ -72,3 +63,5 @@ example:
 }
 
 ```
+### GET /GetAllSession
+Retrieves all counseling sessions.
