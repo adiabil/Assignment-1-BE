@@ -24,6 +24,7 @@ Requires a JSON body with session details.
  "sessionStatuss": "In Progress"
 }
 
+```
 ### GET /getSession
 - Creates a new counseling session.
 - Requires a JSON body with session details.
