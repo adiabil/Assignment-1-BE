@@ -4,12 +4,17 @@
 This project implements a basic server for a Counseling Service Platform using Node.js. The platform facilitates the management of counseling sessions, offering functionalities such as creating, updating, deleting, and fetching sessions. The server is designed to handle JSON data and is configured to run on http://localhost:8080.
 
 ## Prerequisites
-- CRUD Operations (GET, POST, PUT, DELETE).
-- Ensure that Node.js is installed on your machine.
-- Postman for API testing.
 
-## API Endpoints
-The server supports the following endpoints:
+-Node HTTP Server
+-Node Custom Modules
+-NPM Packages
+-RESTful API
+-ES6 Features
+-HTTP Status Codes
+-Logs
+-Node Events
+- CRUD Operations (GET, POST, PUT, DELETE).
+
 
 ### POST /addSession
 Creates a new counseling session.
