@@ -5,14 +5,14 @@ This project implements a basic server for a Counseling Service Platform using N
 
 ## Prerequisites
 
--Node HTTP Server
--Node Custom Modules
--NPM Packages
--RESTful API
--ES6 Features
--HTTP Status Codes
--Logs
--Node Events
+- Node HTTP Server
+- Node Custom Modules
+- NPM Packages
+- RESTful API
+- ES6 Features
+- HTTP Status Codes
+- Logs
+- Node Events
 - CRUD Operations (GET, POST, PUT, DELETE).
 
 
