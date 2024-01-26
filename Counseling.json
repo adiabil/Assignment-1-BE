@@ -1,0 +1,20 @@
+{
+  "counselingSessions": [
+    {
+      "id": 3,
+      "crisis": "family problem",
+      "clientName": "eli bozgalo",
+      "counslerName": "meir bochris",
+      "date": "19-02-2024",
+      "sessionStatuss": "in process"
+    },
+    {
+      "id": 4,
+      "crisis": "family problem",
+      "clientName": "lior cohen",
+      "counslerName": "shani perez",
+      "date": "20-04-2024",
+      "sessionStatuss": "in process"
+    }
+  ]
+}
