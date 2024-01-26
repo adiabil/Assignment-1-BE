@@ -8,8 +8,6 @@ This project implements a basic server for a Counseling Service Platform using N
 - Ensure that Node.js is installed on your machine.
 - Postman for API testing.
 
-
-
 ## API Endpoints
 The server supports the following endpoints:
 
@@ -30,6 +28,7 @@ Requires a JSON body with session details.
 - Creates a new counseling session.
 - Requires a JSON body with session details.
   Example:
+```json
 {
  "id": 1
 }
