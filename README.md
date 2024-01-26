@@ -30,7 +30,6 @@ Requires a JSON body with session details.
 - Creates a new counseling session.
 - Requires a JSON body with session details.
   Example:
-```json
 {
  "id": 1
 }
