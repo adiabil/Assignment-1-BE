@@ -16,6 +16,7 @@ The server supports the following endpoints:
 ### POST /addSession
 Creates a new counseling session.
 Requires a JSON body with session details.
+```json
 {
  "id": 1,
  "crisis": "Family Crisis",
