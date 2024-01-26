@@ -38,6 +38,7 @@ Requires a JSON body with session details.
 Updates an existing counseling session.
 Requires a JSON body with the updated session details.
 Example:
+```json
 {
  "id": 1,
  "crisis": "Updated Crisis",
@@ -46,21 +47,23 @@ Example:
  "date": "2024-02-01",
  "sessionStatuss": "Completed"
 }
-
+```
 ### DELETE /deleteSession
 Deletes an existing counseling session.
 Requires a JSON body with the session's ID
 example:
+```json
 {
  "id": 1
 }
-
+```
 ### GET /getSession
 Retrieves a single counseling session by ID.
 Requires a JSON body with the session's ID.
 example:
-
+```json
 {
  "id": 1
 }
 
+```
